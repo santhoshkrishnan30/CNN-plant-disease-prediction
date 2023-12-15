@@ -2,7 +2,13 @@
 
 This repository contains a Convolutional Neural Network (CNN) based plant disease classifier implemented using TensorFlow. The model is trained to classify plant images into three categories: "Healthy", "Powdery", and "Rust". The dataset consists of 1530 images divided into training, testing, and validation sets.
 
-## Dataset
+# Dataset
+
+The dataset used in this project is the Plant Disease Recognition Dataset from Kaggle. It contains images of plant diseases categorized into "Healthy," "Powdery," and "Rust" conditions. The dataset consists of 1530 images divided into training, testing, and validation sets.
+
+**Kaggle Dataset Link:** [Plant Disease Recognition Dataset](https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset/)
+
+## Dataset Structure
 
 The dataset is organized into three folders:
 
@@ -16,7 +22,11 @@ The dataset is organized into three folders:
 2. Powdery
 3. Rust
 
-## Usage
+Feel free to explore the dataset and use it for your experiments. If you use this dataset in your work, consider citing the original source as per Kaggle's terms.
+
+
+
+
 
 ### Dependencies
 
