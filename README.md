@@ -1,5 +1,5 @@
 # CNN Plant Disease Classifier
-This repository contains a Convoltional Neural Network (CNN) based plant disease classifier implemented using TensorFlow. The model is trained to classify plant images
+
 This repository contains a Convolutional Neural Network (CNN) based plant disease classifier implemented using TensorFlow. The model is trained to classify plant images into three categories: "Healthy", "Powdery", and "Rust". The dataset consists of 1530 images divided into training, testing, and validation sets.
 
 # Dataset
