@@ -4,7 +4,7 @@ This repository contains a Convolutional Neural Network (CNN) based plant diseas
 
 # Dataset
 
-The dataset used in this project is the Plant Disease Recognition Dataset from Kaggle. It contains images of plant diseases categorized into "Healthy," "Powdery," and "Rust" conditions. The dataset consists of 1530 images divided into training, testing, and validation sets.
+
 
 **Kaggle Dataset Link:** [Plant Disease Recognition Dataset](https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset/)
 
